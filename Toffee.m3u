@@ -3,6 +3,6 @@
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Sports channel", Sony ten3
 https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=SonyTen3
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Movie channel", Sony Art
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangla channel", Bangla vision
+http://tv.cloudcdn.me:80/live.ts?channelId=84&uid=3788&deviceMac=00:1A:79:6D:8A:C6
 

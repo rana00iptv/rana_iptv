@@ -41,13 +41,14 @@ https://nayeemparvez.online/hybrid/master.m3u8?id=SonyTen1
 #EXTINF:-1 tvg-logo="https://iili.io/dDLEBTB.jpg" group-title="India channel",enterer10 বাংলা
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://iili.io/dD4CGna.md.png" group-title="Sports channel",PTV Sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://iili.io/dD4CGna.md.png" group-title="Sports channel",Astro cricket hd
+https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://iili.io/dD4CGna.md.png" group-title="India channel",discovery bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 
 

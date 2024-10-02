@@ -14,16 +14,11 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dDwcXta.md.png" group-title="Bangla channel", Channel 24
 http://tv.cloudcdn.me:80/live.ts?channelId=87&uid=10016&deviceMac=00:1A:79:20:6F:F3
 
+#EXTINF:-1 tvg-logo="https://iili.io/dDww1ln.png" group-title="Cratoon channel", Nick Bangla
+https://fprk.short.gy/SmartFlixtvnickbn.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/dDlZGpf.jpg" group-title="Bangla channel", Bangla vision
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/dDlZGpf.jpg" group-title="Bangla channel", Bangla vision
-
+#EXTINF:-1 tvg-logo="https://iili.io/dDww6xV.jpg" group-title="Bangla channel", Movie Bangla
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8
 
 
 

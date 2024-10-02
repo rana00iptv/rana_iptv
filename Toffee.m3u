@@ -42,19 +42,6 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-DISNEY INDIA 
-
-
 #EXTINF:-1 tvg-logo="https://iili.io/dDlZGpf.jpg" group-title="India channel", DISNEY INDIA
 ://117.102.16.2:34567/play/a09d/index.m3u8
 
@@ -121,7 +108,7 @@ http://117.102.16.2:34567/play/a08y/index.m3u8
 
 NICK HD+
 
-
+#EXTINF:-1 tvg-logo="https://iili.io/dDlZGpf.jpg" group-title="cratoon channel",NICK HD+
 http://117.102.16.2:34567/play/a0ad/index.m3u8
 
 

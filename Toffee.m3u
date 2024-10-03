@@ -44,10 +44,10 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-logo="https://iili.io/dbHswNI.md.jpg" group-title="Sports channel",PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/dbHsd6G.png" group-title="Bangladesh channel",Somoy tv
+#EXTINF:-1 tvg-logo="https://iili.io/dbHs1Mg.jpg" group-title="Bangladesh channel",Somoy tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=somoy_news
 
-#EXTINF:-1 tvg-logo="https://iili.io/dbHs1Mg.jpg" group-title="India channel",discovery bangla
+#EXTINF:-1 tvg-logo="https://iili.io/dbHsd6G.png" group-title="India channel",discovery bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 

@@ -35,9 +35,6 @@ https://stream.imotv.online/sports/m3u8.php/star1in.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dD4CGna.md.png" group-title="India channel", Jee bangla hd
 http://217.20.112.199:8888/zeebangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/dDL0y0J.md.png" group-title="Sports channel", Sony Ten1
-https://nayeemparvez.online/hybrid/master.m3u8?id=SonyTen1
-
 #EXTINF:-1 tvg-logo="https://iili.io/dDLEBTB.jpg" group-title="India channel",enterer10 বাংলা
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
